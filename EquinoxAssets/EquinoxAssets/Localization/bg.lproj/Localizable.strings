@@ -1,0 +1,141 @@
+"menu.main.about" = "За %@";
+"menu.main.preferences" = "Настройки...";
+"menu.main.hide" = "Скрий %@";
+"menu.main.hide.others" = "Скрий другите";
+"menu.main.show.all" = "Покажи всички";
+"menu.main.quit" = "Спри %@";
+
+"menu.file" = "Файл";
+"menu.file.new" = "Нов";
+
+"menu.edit" = "Редакция";
+"menu.edit.undo" = "Отмяна";
+"menu.edit.redo" = "Повтори";
+"menu.edit.cut" = "Изрежи";
+"menu.edit.copy" = "Копирай";
+"menu.edit.paste" = "Постави";
+"menu.edit.select.all" = "Избери всички";
+"menu.edit.delete" = "Изтрий";
+
+"menu.window" = "Прозорец";
+"menu.window.minimize" = "Минимизирай";
+"menu.window.zoom" = "Увеличи";
+"menu.window.show.all" = "Покажи всички";
+
+"menu.help" = "Помощ";
+"menu.help.githubProject" = "GitHub проект";
+"menu.help.githubFAQ" = "Често задавани въпроси";
+"menu.help.githubIssue" = "Сподели за проблем";
+"menu.help.equinoxWebsite" = "Equinox web сайт";
+"menu.help.macAppStoreReview" = "Оцени Equinox в Mac App Store";
+"menu.help.productHunt" = "Equinox в Product Hunt";
+
+"welcome.title" = "Добре дошли в Equinox";
+"welcome.welcome" = "Добре дошли в %@";
+"welcome.version" = "Версия %@";
+"welcome.github" = "GitHub";
+"welcome.choose.type" = "Избери тип";
+"welcome.choose.type.description" = "Изберете подходящ тип тапет";
+"welcome.types.solar" = "Слънчев";
+"welcome.types.solar.description" = "Създайте тапет въз основа на слънчеви изчисления. Тапетът на работния плот се променя през деня в зависимост от позицията на слънцето в небето.";
+"welcome.types.time" = "Времеви";
+"welcome.types.time.description" = "Създайте тапет въз основа на изчисления на времето. Тапетът на работния плот се променя през деня в зависимост от времето, което изберете.";
+"welcome.types.appearance" = "Спрямо режима";
+"welcome.types.appearance.description" = "Създайте тапет въз основа на външния вид на системата. Имате нужда от две изображения: едно за светъл и едно за тъмен режим.";
+
+"wallpaper.main.solar" = "Слънчев";
+"wallpaper.main.time" = "Времеви";
+"wallpaper.main.appearance" = "Спрямо режима";
+"wallpaper.main.calculator" = "Калкулатор";
+"wallpaper.main.create" = "Създай";
+"wallpaper.main.browse" = "Изберете файлове с изображения";
+"wallpaper.main.validate" = "Моля, попълнете всички полета";
+
+"wallpaper.gallery.drag.title" = "Плъзнете и пуснете вашите изображения";
+"wallpaper.gallery.drag.supplementary" = "Файловете трябва да бъдат във формат png, jpeg, tiff или heif.";
+"wallpaper.gallery.or" = "или";
+"wallpaper.gallery.browse" = "Избери";
+"wallpaper.gallery.azimuth" = "Азимут:";
+"wallpaper.gallery.azimuth.value" = "Стойност";
+"wallpaper.gallery.altitude" = "Надморска височина:";
+"wallpaper.gallery.altitude.value" = "Стойност";
+"wallpaper.gallery.time" = "Време:";
+"wallpaper.gallery.tooltip.appearance.title" = "Спрямо режима";
+"wallpaper.gallery.tooltip.appearance.description" = "Графичен режим. Само едно изображение може да бъде светло или тъмно.";
+"wallpaper.gallery.tooltip.primary.title" = "Основно";
+"wallpaper.gallery.tooltip.primary.description" = "Основното изображение ще се покаже като миниатюра на тапета.";
+"wallpaper.gallery.wrong.images.type" = "Някои файлове (%d) имат грешен формат. Само png, jpeg, tiff и heic се поддържат";
+
+"wallpaper.appearance.auto.title" = "Автоматично";
+"wallpaper.appearance.auto.description" = "Изображение на тапет по подразбиране";
+"wallpaper.appearance.light.title" = "Светло (Статично)";
+"wallpaper.appearance.light.description" = "Показване на изображение в статичен светъл режим";
+"wallpaper.appearance.dark.title" = "Тъмно (Статично)";
+"wallpaper.appearance.dark.description" = "Показване на изображение в статичен тъмен режим";
+
+"wallpaper.create.success" = "Успех";
+"wallpaper.create.success.description" = "Плъзнете или запазете вашия тапет, където пожелаете";
+"wallpaper.create.failure" = "Неуспешно";
+"wallpaper.create.failure.description" = "Опа! Нещо се обърка";
+"wallpaper.create.save" = "Запази";
+"wallpaper.create.set" = "Задай";
+"wallpaper.create.share" = "Сподели";
+"wallpaper.create.new" = "Нов";
+"wallpaper.create.cancel" = "Откажи";
+"wallpaper.create.solar.based" = "Базиран на слънцето";
+"wallpaper.create.time.based" = "Базиран на времето";
+"wallpaper.create.appearance.based" = "Базиран на режима";
+"wallpaper.create.file.saved" = "Тапетът е запазен";
+"wallpaper.create.new.title" = "Създай нов тапет?";
+"wallpaper.create.new.description" = "Искате ли да създадете нов тип тапет или да повторите текущия?";
+"wallpaper.create.title" = "Създай";
+"wallpaper.create.repeat.title" = "Повтори";
+"wallpaper.create.set.error" = "Не мога да запазя тапета.";
+"wallpaper.create.set.success" = "Вие успешно зададохте тапета";
+"wallpaper.create.cant.share" = "Не мога да споделя тапета!";
+
+"wallpaper.set.title" = "Настройки преди да зададете тапет";
+"wallpaper.set.description.title.old" = "Трябва да зададете тип „Dynamic“ във вашите настройки на macOS „Desktop & Screen Saver“, преди да смените тапета.";
+"wallpaper.set.description.title" = "Трябва да зададете тип „Dynamic“ във вашите настройки за „Wallpaper“ на macOS, преди да смените тапета.";
+"wallpaper.set.todo.old" = "1. Отворете “Desktop & Screen Saver” macOS настройки.\n2. Изберете някой “Dynamic Desktop” тапет и сменете типа му на “Dynamic”.\n3. Изберете “Continue”.";
+"wallpaper.set.todo" = "1. Отворете “Wallpaper” macOS настройки.\n2. Изберете някой “Dynamic Desktop” тапет и сменете типа му на  “Dynamic”.\n3. Изберете “Continue”.";
+"wallpaper.set.todo.link.old" = "“Desktop & Screen Saver”";
+"wallpaper.set.todo.link" = "“Wallpaper”";
+"wallpaper.set.continue" = "Continue";
+"wallpaper.set.skip" = "Не показвай това съобщение пак";
+
+"solar.main.title" = "Соларен калкулатор";
+"solar.main.location.header" = "Местоположение";
+"solar.main.date.header" = "Дата";
+"solar.main.result.header" = "Резултат";
+"solar.main.latitude" = "Географска ширина:";
+"solar.main.longitude" = "Географска дължина:";
+"solar.main.date" = "Дата:";
+"solar.main.altitude" = "Надморска височина:";
+"solar.main.azimuth" = "Азимут:";
+"solar.main.value" = "Стойност";
+"solar.main.copied" = "Копирано";
+"solar.main.sun.timeline" = "Слънчева времева линия";
+"solar.main.timezone" = "Часови зони";
+"solar.main.location.error" = "Опа! Нещо се обърка при получаване на местоположението ви. Моля, опитайте отново";
+"solar.main.dst.title" = "DST";
+"solar.main.dst.tooltip.title" = "Лятно часово време";
+"solar.main.dst.tooltip.description" = "Часовниците се преместват един час напред през пролетта и един час назад през есента";
+"solar.main.abbreviation.tooltip.title" = "GMT отместване";
+"solar.main.abbreviation.tooltip.description" = "Разликата във времето между Greenwich Mean Time (GMT) и местното време на конкретно място, изразено в часове и минути";
+"solar.main.drag.and.drop.tooltip.title" = "Плъзнете и пуснете";
+"solar.main.drag.and.drop.tooltip.description" = "Плъзнете и пуснете или копирайте резултата върху вашето изображение";
+
+"tip.tips" = "СЪВЕТИ";
+"tip.started" = "Как да започнем";
+"tip.ok" = "Разбрах";
+"tip.solar.title" = "Соларен тапет";
+"tip.solar.description" = "Основната характеристика на този тип тапети е, че те отчитат позицията на слънцето. В зависимост от времето на годината ще видите най-подходящото изображение на вашия работен плот.\nНе се притеснявайте за изчисленията. С помощта на „Соларния калкулатор“ трябва само да знаете къде и кога сте направили снимка.";
+"tip.time.title" = "Времери тапет";
+"tip.time.description" = "Времето е ключът към този тип тапети. Картината на работния плот се променя през деня в зависимост от времето, което изберете.";
+"tip.appearance.title" = "Тапет спрямо системния режим";
+"tip.appearance.description" = "Този тип тапет е много прост. Картината на работния плот се променя през деня въз основа на промяната на режима на външния вид на системата. Имате нужда от две изображения: едно за светъл и едно за тъмен режим.";
+"tip.calculator.title" = "Соларен калкулатор";
+"tip.calculator.description" = "Ще ви помогне да изчислите позицията на слънцето в небето.\n1. Изберете мястото, датата и часа на слънчевата времева линия спрямо момента, когато сте направили снимката. Ако не знаете точното време, можете да използвате слънчевата времева линия, за да видите колко високо или ниско е позицията на слънцето в небето и да го сравните със снимките, които имате.\n2. Плъзнете и пуснете или копирайте резултата върху вашето изображение.";
+
+"dock.new" = "Нов";
